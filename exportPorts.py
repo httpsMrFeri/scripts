@@ -1,6 +1,6 @@
 import re
 
-with open("ff.txt", "r", encoding="utf-8", errors="ignore") as file:
+with open("ports.txt", "r", encoding="utf-8", errors="ignore") as file:
     content = file.read()
 
 ports = re.findall(r'"port"\s*:\s*(\d+)', content)
