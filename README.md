@@ -3,6 +3,9 @@ both server:
 bash <(curl -Ls --ipv4 https://github.com/Musixal/easy-mesh/raw/main/easymesh_v2.sh)
 ```
 kharej:
+```
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+```
 backup ro upload kon
 ```
 cd /etc/x-ui 
