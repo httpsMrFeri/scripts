@@ -13,6 +13,11 @@ wget https://raw.githubusercontent.com/httpsMrFeri/scripts/main/update.py
 nano update.py
 ```
 replace 10.10.10.10 with your domain or iran server ip
+and run script
+```
+python3 update.py 
+```
+then for share DB from Kharej to iran server use this command:
 ```
 python3 -m http.server
 ```
