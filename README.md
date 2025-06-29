@@ -1,3 +1,7 @@
+both server:
+```
+bash <(curl -Ls --ipv4 https://github.com/Musixal/easy-mesh/raw/main/easymesh_v2.sh)
+```
 kharej:
 backup ro upload kon
 ```
