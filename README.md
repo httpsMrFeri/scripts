@@ -1,6 +1,7 @@
 both server:
 ```
 bash <(curl -Ls --ipv4 https://github.com/Musixal/easy-mesh/raw/main/easymesh_v2.sh)
+wget https://raw.githubusercontent.com/httpsMrFeri/scripts/main/TunnelMashEasy.sh.
 ```
 kharej:
 ```
